@@ -15,6 +15,7 @@ const Home = (props) => {
       <div className="home-container2">
         <h1>Heading</h1>
       </div>
+      <div className="home-container3"></div>
     </div>
   )
 }
